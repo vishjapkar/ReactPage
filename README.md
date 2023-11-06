@@ -1,2 +1,2 @@
 # ReactPage
-this project is based on react 
+this project is based on react JavaScript
